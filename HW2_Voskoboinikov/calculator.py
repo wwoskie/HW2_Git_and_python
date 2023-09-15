@@ -9,14 +9,14 @@ def multiplication(a, b):
 
 def division(a, b):
 	return(a / b)
-	
+
 def calc_parser(calc_string):
     calc_list = calc_string.split(' ')
     calc_list[0] = float(calc_list[0])
     calc_list[2] = float(calc_list[2])
     return calc_list
 
-calculator_func_dict = {'-': subtraction, 
+calculator_func_dict = {'-': subtraction,
                         '*': multiplication,
 			'+': addition,
 			'/': division}
