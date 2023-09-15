@@ -4,6 +4,9 @@ def addition(a, b):
 def subtraction(a, b):
 	return(a - b)
 
+def multiplication(a, b):
+	return(a * b)
+
 def calc_parser(calc_string):
     calc_list = calc_string.split(' ')
     calc_list[0] = float(calc_list[0])
