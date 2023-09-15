@@ -1,6 +1,6 @@
 # HW2_Git_and_python
 
-### Description of project
+### Project Description
 
 Данный проект содержит в себе мини-программу `calculator.py`, на вход которой через пробел подается **2 числа** типа *float* или 
 *integer* и одна из четырех операций (`+ - * /`), которую нужно выполнить с этими числами.
@@ -17,6 +17,7 @@
 ### The Team
 
 Александр Воскобойников - Team leader (Master)
+
 Михаил Гринберг, Артем Васильев, Шакир Сулейманов, Гуля Мурадова - Slaves
 
-![They are trying to make a Heart](https://github.com/ArtemVaska/HW2_Git_and_python/tree/HW2_Vasilev/<3.jpg)
+![They are trying to make a Heart](https://github.com/ArtemVaska/HW2_Git_and_python/blob/HW2_Vasilev/HW2_Voskoboinikov/Heart.jpg)
