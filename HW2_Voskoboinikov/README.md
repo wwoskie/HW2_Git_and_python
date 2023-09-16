@@ -16,8 +16,8 @@
 
 ### The Team
 
-Александр Воскобойников - Team leader (Master)
+Александр Воскобойников - Team leader
 
-Михаил Гринберг, Артем Васильев, Шакир Сулейманов, Гуля Мурадова - Slaves
+Михаил Гринберг, Артем Васильев, Шакир Сулейманов, Гуля Мурадова - Wonderful developers team
 
 ![They are trying to make a Heart](https://github.com/ArtemVaska/HW2_Git_and_python/blob/HW2_Vasilev/HW2_Voskoboinikov/Heart.jpg)
